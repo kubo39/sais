@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+sais.so
+sais.dylib
+sais.dll
+sais.a
+sais.lib
+sais-test-*
+*.exe
+*.o
+*.obj
+*.lst

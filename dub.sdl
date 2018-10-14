@@ -1,0 +1,5 @@
+name "sais"
+description "Suffix-Array Induced Sorting"
+authors "Hiroki Noda"
+copyright "Copyright © 2018, Hiroki Noda"
+license "BSL-1.0"
